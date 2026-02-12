@@ -1,6 +1,6 @@
 # Reptile - Authentification Sécurisée
 
-Application PHP native avec sécurité
+Formulaire PHP natif avec sécurité
 
 ---
 
