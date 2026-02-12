@@ -6,7 +6,6 @@ Formulaire PHP natif avec sécurité
 
 **Étudiant :** Bademba SANGARE  
 **Formation :** M1 Informatique et Big Data  
-**Professeur :** Christophe Villeneuve  
 **Cadre :** Théorie de l'information appliquée à la sécurité des systèmes
 
 ---
