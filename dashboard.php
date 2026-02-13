@@ -19,7 +19,7 @@ $username = $_SESSION['username'];
 <body>
     <div class="container">
         <div class="logo">
-            <img src="img/logo.svg" alt="Logo Référence Open Source"> 
+            <img src="img/logo.png" alt="Logo Référence Open Source"> 
         </div>
         
         <h1>DASHBOARD</h1> 
