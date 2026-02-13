@@ -135,7 +135,7 @@ $csrf = getCsrfToken();
 <body>
     <div class="container">
         <div class="logo">
-            <img src="img/logo.svg" alt="Reptile">
+            <img src="img/logo.png" alt="Reptile">
         </div>
         
         <h1>AUTHENTIFICATION</h1>
